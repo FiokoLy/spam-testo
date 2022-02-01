@@ -1,0 +1,6 @@
+#NON PRENDIAMO ALCUNA RESPONSABILITÀ!!
+
+#VERSIONE PYTHON3!!!
+
+for a in range(quanti messaggi vuoi che scriva):
+   print('Qui va il testo!')
